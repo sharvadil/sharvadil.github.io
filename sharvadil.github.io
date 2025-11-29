@@ -121,7 +121,8 @@
     <p>
         📧 Email: sharvadil@gmail.com<br>
         📱 KakaoTalk: sharof<br>
-        📸 Instagram: @new.karea<br>
+        🔗 Telegram: <a href="https://t.me/sharofkorea" target="_blank">@sharofkorea</a><br>
+        📸 Instagram: @sharofkorea<br>
         📞 Phone: 010-8072-7517
     </p>
 </section>
